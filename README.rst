@@ -1,23 +1,20 @@
 Python Congress
 ===============
 
+Since the main branch hasn't accepted my PR, use this branch until it is accepted.
+
 A Python client for the ProPublica `Congress
 API <https://projects.propublica.org/api-docs/congress-api/>`__
 
 Install
 -------
 
-From PyPI:
-
-::
-
-    pip install python-congress
 
 Download and run the install script:
 
 ::
 
-    git clone https://github.com/eyeseast/propublica-congress && cd propublica-congress
+    git clone https://github.com/astrowonk/propublica-congress.git && cd propublica-congress
     python setup.py install
 
 Usage
